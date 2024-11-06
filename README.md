@@ -34,8 +34,8 @@
 4. Put your userID to file named `uid.txt`
 
    - Open [https://app.getgrass.io/dashboard](https://app.getgrass.io/register/?referralCode=MCjlW11j0OF4zbo).
-   - Open browser's developer tools and click and select  "Inspect" .
-   - Go to the "Console" tab.
+   - Open browser's `developer tools` and click select `Inspect` .
+   - Go to the `Console` tab.
    - Paste the following command :
 
      ```javascript
