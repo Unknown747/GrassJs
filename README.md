@@ -22,7 +22,7 @@
 2. Navigate the directory:
 
    ```bash
-   cd GrassBot
+   cd GrassBot-Js
    ```
 
 3. Install the requirements:
